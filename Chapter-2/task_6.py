@@ -1,4 +1,4 @@
-# Ask users side of the triangle
+# Ask users side of the triangle.
 a = int(input("Enter the first side of the triangle ="))
 b = int(input("Enter the second side of the triangle ="))
 c = int(input("Enter the last side ="))
