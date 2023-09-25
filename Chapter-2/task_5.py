@@ -6,3 +6,4 @@ for i in range(1, b + 1):
         #TODO
         out += i
 print(out)
+
