@@ -4,4 +4,4 @@ n = 0
 # We get an integer.
 for i in number:
     n += 0
-    print(i, end='')
+    print(i, end="")

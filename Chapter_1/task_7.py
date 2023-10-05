@@ -3,7 +3,7 @@ n = int(input("Please input positive num:"))
 f = 1
 if n > 0:
     # Adding a loop to factorial
-    while (n):
+    while n:
         f *= n
         n -= 1
     print(f)

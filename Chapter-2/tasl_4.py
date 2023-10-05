@@ -16,4 +16,4 @@ elif len(a) == len(b):
     print("Equal list size.")
 else:
     print("Lists are not equal.")
-#TODO
+# TODO
